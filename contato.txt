@@ -1,3 +1,5 @@
 Corrigido o Bug
 
+Uma Linha qualquer no meio do arquivo (Inserido no Master)
+
 Corrigido Bug da Versão 2
